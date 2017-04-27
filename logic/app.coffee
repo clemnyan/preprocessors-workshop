@@ -56,7 +56,7 @@ $ ->
       @data.x = {}
       @data.o = {}
 
-      #diagonal check
+      #diagonal check yay
       diagonals = [[0,4,8], [2,4,6]]
       for diagonal in diagonals
         for col in diagonal
